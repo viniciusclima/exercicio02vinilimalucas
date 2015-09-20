@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vinib_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\vinib_000\Documents\arquidesis android\exercicio01_vinicius_lucas\exercicioListView\ex2vinilucas\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-63e778d76e9959734ea36d0bfb15226eb17f2e98.jar" />
+    </item>
+    <item
+        jar="C:\Users\vinib_000\Documents\arquidesis android\exercicio01_vinicius_lucas\exercicioListView\ex2vinilucas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\vinib_000\Documents\arquidesis android\exercicio01_vinicius_lucas\exercicioListView\ex2vinilucas\app\build\intermediates\pre-dexed\debug\classes-a2d4b06ba0b303f7ec6e42f8d4a8e1a43ef6ade1.jar" />
+    </item>
+    <item
+        jar="C:\Users\vinib_000\Documents\arquidesis android\exercicio01_vinicius_lucas\exercicioListView\ex2vinilucas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\vinib_000\Documents\arquidesis android\exercicio01_vinicius_lucas\exercicioListView\ex2vinilucas\app\build\intermediates\pre-dexed\debug\classes-9f74e1532e635732b09571eaa00c5526f330d20b.jar" />
+    </item>
+    <item
+        jar="C:\Users\vinib_000\Documents\arquidesis android\exercicio01_vinicius_lucas\exercicioListView\ex2vinilucas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\vinib_000\Documents\arquidesis android\exercicio01_vinicius_lucas\exercicioListView\ex2vinilucas\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-f52840f1949546a621880aecdef246d850c4b2a5.jar" />
+    </item>
+
+</items>

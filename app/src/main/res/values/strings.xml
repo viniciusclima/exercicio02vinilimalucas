@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ex2vinilucas</string>
+
+    <string name="hello_world">Escolha sua origem</string>
+    <string name="action_settings">Settings</string>
+    <string name="destino">Escolha seu destino</string>
+    <string name="consultar">Consultar Voo</string>
+    <string name="title_activity_voolst">VoolstActivity</string>
+    <string name = "vooss">Escolha seu voo</string>
+    <string name = "detalhes">Detalhes do VOO</string>
+    <string name="title_activity_detalhes_voo">detalhesVooActivity</string>
+</resources>
